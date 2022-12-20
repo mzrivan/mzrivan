@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello I'm a Junior QA Engineer. 
 
-<!--
-**mzrivan/mzrivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Testing Documentation 
 
-Here are some ideas to get you started:
+- [Checklists](https://docs.google.com/spreadsheets/d/1dMaiv-fHev5tkJidjy6abSGqMlyZuX80ZVpgY1hlupA/edit#gid=0)
+- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1gkJzCmewltZJLrLYWJbLOmxQ_imYMdo1WAGjzGS-nZk/edit#gid=0)
+- [Bug-Report](https://github.com/mzrivan/Patterns-task1/issues/1)
+- [SQL](https://github.com/mzrivan/SQLtest)
+- [Selenium](https://github.com/mzrivan/SeleniumTests)
+- [Selenide](https://github.com/mzrivan/Patterns-task1)
+- [Selenide, REST-assured](https://github.com/mzrivan/Patterns-task2)
+- [Doker](https://github.com/mzrivan/Docker.1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact info
+
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/ivan.mzr)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/IvanMzr)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/ivan-mazur-qa)
