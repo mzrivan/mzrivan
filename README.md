@@ -12,6 +12,23 @@
 - [Selenide, REST-assured](https://github.com/mzrivan/Patterns-task2)
 - [Doker](https://github.com/mzrivan/Docker.1)
 
+### Tools
+- IntelliJ IDEA
+- Maven/Gradle
+- Git
+- CI (GitHub Actions, AppVeyor)
+- Selenium, Selenide
+- Lombok
+- REST-assured
+- JUnit5
+- Docker, Docker Compose
+- Postman
+- Allure
+- DevTools
+
+### Languages	
+- Java
+
 ### Contact info
 
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/ivan.mzr)
