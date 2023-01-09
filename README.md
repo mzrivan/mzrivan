@@ -5,9 +5,6 @@
 - [Checklists](https://docs.google.com/spreadsheets/d/1dMaiv-fHev5tkJidjy6abSGqMlyZuX80ZVpgY1hlupA/edit#gid=0)
 - [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1gkJzCmewltZJLrLYWJbLOmxQ_imYMdo1WAGjzGS-nZk/edit#gid=0)
 - [Bug-Report](https://github.com/mzrivan/SQL_api/issues/4)
-- [SQL+Selenide](https://github.com/mzrivan/SQLtest)
-- [SQL+REST-assured](https://github.com/mzrivan/SQL_api)
-- [Selenium](https://github.com/mzrivan/SeleniumTests)
 - [Selenide](https://github.com/mzrivan/Patterns-task1)
 - [Selenide, REST-assured](https://github.com/mzrivan/Patterns-task2)
 - [Doker](https://github.com/mzrivan/Docker.1)
@@ -16,14 +13,20 @@
 - IntelliJ IDEA
 - Maven/Gradle
 - Git
-- CI (GitHub Actions, AppVeyor)
-- Selenium, Selenide
+- [CI(GitHub Actions, AppVeyor)](https://github.com/mzrivan/API-CI/blob/main/README.md)
+- [Selenium](https://github.com/mzrivan/SeleniumTests)
+- [Selenide+SQL+Docker](https://github.com/mzrivan/SQLtest)
+- [REST-assured+SQL+Allure](https://github.com/mzrivan/SQL_api)
+- [TestNG](https://github.com/mzrivan/Basic_Automation/tree/testng)
+- [JUnit4](https://github.com/mzrivan/Basic_Automation/tree/junit4)
+- [JUnit5](https://github.com/mzrivan/Java_HomeWork_10)
+- [Doker](https://github.com/mzrivan/Docker.1)
+- [Docker-compose](https://github.com/mzrivan/Docker.2)
+- [Faker, data generator](https://github.com/mzrivan/Patterns-task1)
+- [Allure](https://github.com/mzrivan/Allure-Gradle-Selenide)
+- [Report Portal](https://github.com/mzrivan/Selenide-ReportPortal)
 - Lombok
-- REST-assured
-- JUnit5
-- Docker, Docker Compose
 - Postman
-- Allure
 - DevTools
 
 ### Languages	
