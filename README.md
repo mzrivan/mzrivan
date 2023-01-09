@@ -9,6 +9,7 @@
 ### Tools
 - IntelliJ IDEA
 - Maven/Gradle
+- Lombok
 - Git
 - [CI(GitHub Actions, AppVeyor)](https://github.com/mzrivan/API-CI/blob/main/README.md)
 - [Selenium](https://github.com/mzrivan/SeleniumTests)
@@ -22,7 +23,6 @@
 - [Faker, data generator](https://github.com/mzrivan/Patterns-task1)
 - [Allure](https://github.com/mzrivan/Allure-Gradle-Selenide)
 - [Report Portal](https://github.com/mzrivan/Selenide-ReportPortal)
-- Lombok
 - Postman
 - DevTools
 
