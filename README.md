@@ -5,9 +5,6 @@
 - [Checklists](https://docs.google.com/spreadsheets/d/1dMaiv-fHev5tkJidjy6abSGqMlyZuX80ZVpgY1hlupA/edit#gid=0)
 - [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1gkJzCmewltZJLrLYWJbLOmxQ_imYMdo1WAGjzGS-nZk/edit#gid=0)
 - [Bug-Report](https://github.com/mzrivan/SQL_api/issues/4)
-- [Selenide](https://github.com/mzrivan/Patterns-task1)
-- [Selenide, REST-assured](https://github.com/mzrivan/Patterns-task2)
-- [Doker](https://github.com/mzrivan/Docker.1)
 
 ### Tools
 - IntelliJ IDEA
