@@ -2,9 +2,9 @@
 
 ### My Testing Documentation 
 
-- [Checklists](https://docs.google.com/spreadsheets/d/1dMaiv-fHev5tkJidjy6abSGqMlyZuX80ZVpgY1hlupA/edit#gid=0)
-- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1gkJzCmewltZJLrLYWJbLOmxQ_imYMdo1WAGjzGS-nZk/edit#gid=0)
-- [Bug-Report](https://github.com/mzrivan/SQL_api/issues/4)
+- [Checklist](https://docs.google.com/spreadsheets/d/1dMaiv-fHev5tkJidjy6abSGqMlyZuX80ZVpgY1hlupA/edit#gid=0)
+- [Test-Suit and Test-Cases](https://docs.google.com/spreadsheets/d/1gkJzCmewltZJLrLYWJbLOmxQ_imYMdo1WAGjzGS-nZk/edit#gid=0)
+- Bug-Reports:[1](https://github.com/mzrivan/mzrivan/blob/main/BugReport1.jpg), [2](https://github.com/mzrivan/mzrivan/blob/main/BugReport2.jpg), [3](https://github.com/mzrivan/SQL_api/issues/4)
 
 ### Tools
 - IntelliJ IDEA
