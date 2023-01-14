@@ -11,12 +11,11 @@
 - Maven/Gradle
 - Lombok
 - Git
-- [CI(GitHub Actions, AppVeyor)](https://github.com/mzrivan/API-CI/blob/main/README.md)
-- [Selenium](https://github.com/mzrivan/SeleniumTests)
+- CI(GitHub Actions, AppVeyor)
 - [Selenide+SQL+Docker](https://github.com/mzrivan/SQLtest)
 - [REST-assured+SQL+Allure](https://github.com/mzrivan/SQL_api)
+- [Selenium](https://github.com/mzrivan/SeleniumTests)
 - [TestNG](https://github.com/mzrivan/Basic_Automation/tree/testng)
-- [JUnit4](https://github.com/mzrivan/Basic_Automation/tree/junit4)
 - [JUnit5](https://github.com/mzrivan/Java_HomeWork_10)
 - [Doker](https://github.com/mzrivan/Docker.1)
 - [Docker-compose](https://github.com/mzrivan/Docker.2)
