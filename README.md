@@ -5,7 +5,8 @@
 - [Checklist](https://docs.google.com/spreadsheets/d/1dMaiv-fHev5tkJidjy6abSGqMlyZuX80ZVpgY1hlupA/edit#gid=0)
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1gkJzCmewltZJLrLYWJbLOmxQ_imYMdo1WAGjzGS-nZk/edit#gid=0)
 - Bug-Reports:[1](https://github.com/mzrivan/mzrivan/blob/main/BugReport1.jpg), [2](https://github.com/mzrivan/mzrivan/blob/main/BugReport2.jpg), [3](https://github.com/mzrivan/SQL_api/issues/4)
-
+### AQA Diploma project
+- [UI automation](https://github.com/mzrivan/AQA-Diplom)
 ### Tools
 - IntelliJ IDEA
 - Maven/Gradle
