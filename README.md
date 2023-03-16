@@ -23,7 +23,7 @@
 - [Faker, data generator](https://github.com/mzrivan/Patterns-task1)
 - [Allure](https://github.com/mzrivan/Allure-Gradle-Selenide)
 - [Report Portal](https://github.com/mzrivan/Selenide-ReportPortal)
-- Postman
+- [Postman](https://docs.google.com/document/d/10r2vBBybLwGz-j_K-qL75G1sjPTJb5j5GmGhjUCgf_A/edit#heading=h.rz51c8iwm7xd)
 - DevTools
 
 ### Languages	
