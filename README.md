@@ -1,4 +1,4 @@
-## Hello I'm a Junior QA Engineer. 
+## Hello I'm QA Engineer. 
 
 ### My Testing Documentation 
 
